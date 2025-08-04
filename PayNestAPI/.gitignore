@@ -1,0 +1,65 @@
+## Visual Studio specific ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results ##
+bin/
+obj/
+
+## ASP.NET Core Secrets ##
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+
+## Visual Studio Code ##
+.vscode/
+
+## Rider ##
+.idea/
+
+## Dotnet user secrets ##
+%APPDATA%\Microsoft\UserSecrets\
+~/.microsoft/usersecrets/
+
+## Logs ##
+*.log
+logs/
+Log/
+
+## Publish results ##
+publish/
+out/
+
+## Environment files ##
+.env
+.env.*
+
+## NuGet ##
+*.nupkg
+*.snupkg
+.nuget/
+
+## Resharper ##
+_ReSharper*/
+*.DotSettings.user
+
+## Others ##
+*.cache
+*.ilk
+*.pdb
+*.idb
+*.class
+*.dll
+*.exe
+*.ilk
+*.log
+*.obj
+*.pyc
+*.pyo
+*.psess
+*.vsp
+*.vspscc
+*.vssscc
